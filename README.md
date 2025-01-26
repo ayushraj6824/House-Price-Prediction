@@ -70,18 +70,6 @@ House-Price-Prediction/
 
 ---
 
-## Screenshots
-### 1. **Actual vs. Predicted Prices (Histogram)**  
-   ![Actual vs Predicted Prices] (Screenshots/Screenshot1.jpg)
-
-### 2. **Predicted vs. Actual Prices (Scatter Plot)**  
-   ![Predicted vs Actual Prices](Screenshots/Predicted vs. Actual Prices (Scatter Plot).jpg)
-
-### 3. **Residual Plot**  
-   ![Residual Plot](Screenshots/Residual Plot.jpg)
-
----
-
 ## Example Output
 **Model Evaluation:**
 ```plaintext

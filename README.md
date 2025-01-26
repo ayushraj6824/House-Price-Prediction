@@ -51,7 +51,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    ```bash
    cd House-Price-Prediction
    ```
-3. Ensure the `boston.csv` file is present in the directory.
+3. Ensure the `boston1.csv` file is present in the directory.
 4. Run the script:
    ```bash
    python main.py
@@ -72,13 +72,13 @@ House-Price-Prediction/
 
 ## Screenshots
 ### 1. **Actual vs. Predicted Prices (Histogram)**  
-   ![Actual vs Predicted Prices](Screenshots\Actual vs. Predicted Prices (Histogram).jpg)
+   ![Actual vs Predicted Prices](Screenshots/Actual vs. Predicted Prices (Histogram).jpg)
 
 ### 2. **Predicted vs. Actual Prices (Scatter Plot)**  
-   ![Predicted vs Actual Prices](Screenshots\Predicted vs. Actual Prices (Scatter Plot).jpg)
+   ![Predicted vs Actual Prices](Screenshots/Predicted vs. Actual Prices (Scatter Plot).jpg)
 
 ### 3. **Residual Plot**  
-   ![Residual Plot](Screenshots\Residual Plot.jpg)
+   ![Residual Plot](Screenshots/Residual Plot.jpg)
 
 ---
 

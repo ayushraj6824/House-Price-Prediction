@@ -72,13 +72,13 @@ House-Price-Prediction/
 
 ## Screenshots
 ### 1. **Actual vs. Predicted Prices (Histogram)**  
-   ![Actual vs Predicted Prices](https://via.placeholder.com/600x300?text=Actual+vs+Predicted+Prices)
+   ![Actual vs Predicted Prices](Screenshots\Actual vs. Predicted Prices (Histogram).jpg)
 
 ### 2. **Predicted vs. Actual Prices (Scatter Plot)**  
-   ![Predicted vs Actual Prices](https://via.placeholder.com/600x300?text=Predicted+vs+Actual+Prices)
+   ![Predicted vs Actual Prices](Screenshots\Predicted vs. Actual Prices (Scatter Plot).jpg)
 
 ### 3. **Residual Plot**  
-   ![Residual Plot](https://via.placeholder.com/600x300?text=Residual+Plot)
+   ![Residual Plot](Screenshots\Residual Plot.jpg)
 
 ---
 

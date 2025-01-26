@@ -1,0 +1,6 @@
+house_price_prediction/
+│
+├── data/
+│   └── boston.csv
+├── main.py
+└── requirements.txt
